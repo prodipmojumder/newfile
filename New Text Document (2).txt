@@ -1,0 +1,8 @@
+$ git config --global user.name "prodip"
+$ git config --global user.email "prodipmojumder.pm@gmail.com"
+
+
+$ git config --list
+$ git init
+
+
